@@ -1,0 +1,13 @@
+10
+root Documents Pictures Music report.pdf notes.txt photo.jpg song.mp3 Work resume.docx
+9
+root Documents
+root Pictures
+root Music
+Documents report.pdf
+Documents notes.txt
+Documents Work
+Work resume.docx
+Pictures photo.jpg
+Music song.mp3
+root video.mp4

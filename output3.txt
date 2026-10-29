@@ -1,0 +1,17 @@
+
+Adjacency Matrix:
+               0   1   2   3   4   5   
+0  root        0   1   1   0   0   0   
+1  src         0   0   0   1   0   1   
+2  docs        0   0   0   0   1   0   
+3  main.c      0   0   0   0   0   0   
+4  README.md   0   0   0   0   0   0   
+5  util.c      0   0   0   0   0   0   
+
+Start: root | Searching for: util.c
+
+BFS Traversal: root src docs main.c util.c 
+DFS Traversal: root src main.c util.c 
+
+BFS Result: File FOUND
+DFS Result: File FOUND
